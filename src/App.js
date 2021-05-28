@@ -7,11 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Learn React Redux
         </p>
-        <a>
-          Learn Redux here.
-        </a>
       </header>
     </div>
   );
