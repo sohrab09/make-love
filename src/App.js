@@ -9,7 +9,8 @@ function App() {
         <p>
           Learn React Redux
         </p>
-        <h1>Rhis header brans</h1>
+        <h1>This header branch</h1>
+        <h2>This command from main branch</h2>
       </header>
     </div>
   );
